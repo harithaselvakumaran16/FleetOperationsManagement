@@ -6,31 +6,31 @@ A car rental is a vehicle that may be rented for a price and utilied for a speci
 
 The designed system composes of the following entities.
 
-•	Customer
-•	Vehicle
-•	Vehicle Category
-•	Location
-•	Booking
-•	Membership Packages
-•	Maintenance
-•	Insurance
-•	Employee
+•	Customer <br>
+•	Vehicle <br>
+•	Vehicle Category <br>
+•	Location <br>
+•	Booking <br>
+•	Membership Packages <br>
+•	Maintenance <br>
+•	Insurance <br>
+•	Employee <br>
 
 # SQL vs NO SQL
 Criteria used for selecting SQL over NO SQL database:
 
-•	Data is highly structured and that structure doesn’t change frequently.
-•	High Volume media files are not stored.
-•	Require a high degree of data integrity and security.
-•	Doesn’t require the scale-out capabilities that NoSQL offers.
-•	Does not need flexibility of a dynamic schema or want more choice over the data model.
-•	Schema does not grow rapidly.
-•	Hierarchical dependency among the columns is absent.
-•	Column dependencies are flat.
+•	Data is highly structured and that structure doesn’t change frequently. <br>
+•	High Volume media files are not stored. <br>
+•	Require a high degree of data integrity and security. <br>
+•	Doesn’t require the scale-out capabilities that NoSQL offers. <br>
+•	Does not need flexibility of a dynamic schema or want more choice over the data model. <br>
+•	Schema does not grow rapidly. <br>
+•	Hierarchical dependency among the columns is absent. <br>
+•	Column dependencies are flat. <br>
 
 
 # Technical description
-•	Front End Framework: HTML, CSS, and Bootstrap.
-•	Data Base: MySQL Server.
-•	Back End Framework: JavaScript, PHP.
+•	Front End Framework: HTML, CSS, and Bootstrap. <br>
+•	Data Base: MySQL Server. <br>
+•	Back End Framework: JavaScript, PHP. <br>
 •	Operating Systems: macOS, Windows
